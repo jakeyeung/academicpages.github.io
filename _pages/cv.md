@@ -42,7 +42,7 @@ Conferences (talks)
 Conferences (posters)
 ========
   <ul>{% for post in site.posters %}
-    {% include archive-single-poster-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Teaching
