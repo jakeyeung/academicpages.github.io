@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jake Yeung"
 description              : &description "PhD student"
 url                      : https://jakeyeung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "jakeyeung/jakeyeung.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jake Yeung"
+  avatar           : "jake_profile.jpeg"
+  bio              : "Bioengineering PhD candidate. I use the mouse circadian system to study functional genomics."
+  location         : "Ecole Polytechnique Federale de Lausanne (EPFL)"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ch/citations?user=uLHVW9sAAAAJ&hl=en&oi=ao"
   email            :
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jakeyeung"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
