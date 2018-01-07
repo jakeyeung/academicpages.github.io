@@ -18,11 +18,14 @@ Education
 * B.A.Sc Chemical Engineering, University of Waterloo 2012. 
 	* Thesis: Mathematical Modeling of a Renewable Energy Hub
 
-Summary of Research Activities
+Research Interests 
 ======
-I am interested in how the genome encodes temporal dynamics in gene expression in a cell-type-specific manner. To answer these questions, I develop and apply quantitative and systems biology methods with the ultimate goal of understanding the data, making useful predictions, and designing novel experiments.
+Broadly, I am interested in how gene expression is regulated, both at the single-cell and tissue-level, to govern physiology and behavior. To answer these questions, I develop and apply quantitative methods to understand the data, make useful predictions, and design novel experiments.
 
-In my PhD, I have focused on the mammalian circadian system as a model to study this question.
+In my PhD, I have focused on the mammalian circadian system as a model to study how dynamics in gene expression (e.g. 24h oscillations in mRNA abundance) is regulated in a cell-type-specific manner. 
+
+[](I am interested in how the genome encodes temporal dynamics in gene expression in a cell-type-specific manner. To answer these questions, I develop and apply quantitative and systems biology methods with the ultimate goal of understanding the data, making useful predictions, and designing novel experiments.)
+
 
 [](I develop and apply methods in computational biology to understand regulation of gene expression across regulatory layers, from chromatin conformation, to transcriptional and post-transcriptional processes. I have worked closely with experimentalists to make models to understand functional genomics data as well as used these models to make predictions and design new experiments.)
 
