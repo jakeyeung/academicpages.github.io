@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D Bioengineering, Ecole Polytechnique Federale de Lausanne, 2018 (expected)
-** Thesis: Tissue-specific ciradian transcriptional regulation.
+	* Thesis: Tissue-specific ciradian transcriptional regulation.
 * M.Sc Genome Science and Technology, University of British Columbia, 2014
-** Thesis: Identification of RNA binding proteins associated with differential splicing in neuroendocrine prostate cancer.
+	* Thesis: Identification of RNA binding proteins associated with differential splicing in neuroendocrine prostate cancer.
 * B.A.Sc Chemical Engineering, University of Waterloo 2012. 
-** Thesis: Mathematical Modeling of a Renewable Energy Hub
+	* Thesis: Mathematical Modeling of a Renewable Energy Hub
 
 Summary of Research Activities
 ======
