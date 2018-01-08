@@ -1,0 +1,5 @@
+title	type	url_slug	venue	date	location	poster_url	description
+Whole transcriptome alternative splicing pipeline for analysis of subtype-specific splicing signature of prostate cancer	Poster	cshl-gi-poster-1	Cold Spring Harbor Laboratory (CSHL) conference on Genome Informatics Oct 30-Nov 2	2013-10-31	Cold Spring Harbor, USA	http://example.com	CSHL conference poster
+Cracking the transcriptional code behind tissue-dependent 24-hour rhythmic gene expression	Poster	embo-functional-genomics-poster-1	EMBO: From Functional Genomics to Systems Biology 	2016-11-15	Heidelberg, Germany	http://exampleurl.com	EMBO conference poster
+Tissue-specific Circadian Transcriptional Regulation	Poster	grc-poster-1	Gordon Research Conference (GRC) July 16-21	2017-07-17	Stowe, USA	http://example2.com	Gordon Research Conference poster
+Tissue-specific Circadian Transcriptional Regulation	Poster	systemsx-poster-1	3rd International SystemsX.ch Conference on Systems Biology Sept 4-7	2017-09-06	Zurich, Switzerland	http://example2.com	Systems conference poster

@@ -1,0 +1,6 @@
+title	type	url_slug	venue	date	location	talk_url	description
+Tissue-specific Circadian Transcriptional Regulation	Talk	grs-talk-1	Gordon Conference Seminars (GRS) July 15-16	2017-07-15	Stowe, USA	http://exampleurl.com	Tissue-specific circadian gene regulation
+Interaction of Tissue-specific and Circadian Transcriptional Regulatory Networks	Talk	ebrs-talk-1	European Biological Rhythms Society (EBRS) July 30-August 3 Aug	2017-08-01	Amsterdam, Netherlands	http://exampleurl.com	Tissue-specific circadian gene regulation
+Integrated analysis reveals distinct roles of promoters underlying rhythmic gene expression	Talk	epd-talk-1	Gene Regulation and Promoter Meeting: Eukaryotic Promoter Database 30th Anniversary Symposium	2016-09-29	St. Sulpice, Switzerland	http://example3.com	Talk at 30th anniversary symposium of the EPD database.
+Integrating Functional Genomics Data Reveals Tissue-Dependent Mechanisms Underlying Circadian Gene Expression	Talk	srbr-talk-1	Society for Research on Biological Rhythms (SRBR) May 21-25	2016-05-23	Tampa Bay, USA	http://example3.com	Talk at SRBR.
+Identification of RNA binding proteins associated with differential splicing in neuroendocrine prostate cancer.	Talk	masters-talk	4th Annual Oncology, Bioinformatics, Genome Science Research Day	2014-03-21	Vancouver, Canada	http://example2.com	Masters talk

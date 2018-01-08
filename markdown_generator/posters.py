@@ -3,7 +3,7 @@
 
 # # Talks markdown generator for academicpages
 #
-# Takes a TSV of posters with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `posters.py`. Run either from the `markdown_generator` folder after replacing `posters.tsv` with one containing your data.
+# Takes a TSV of posters with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `posters.py`. Run either from the `markdown_generator` folder after replacing `posters.txt` with one containing your data.
 #
 # TODO: Make this work with BibTex and other databases, rather than Stuart's non-standard TSV format and citation style.
 
@@ -33,7 +33,7 @@ import os
 
 # In[3]:
 
-posters = pd.read_csv("posters.tsv", sep="\t", header=0)
+posters = pd.read_csv("posters.txt", sep="\t", header=0)
 posters
 
 
