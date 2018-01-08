@@ -56,7 +56,7 @@ def html_escape(text):
 
 def make_citation(citation, year, title, journal):
     """Make full citation as 'citation (Year). Title <i>Journal</i>'"""
-    return "".join([citation, " (", year, "). ", title, " <i>", journal, "<\i>"])
+    return "".join([citation, " (", year, "). ", title, " <i>", journal, "</i>"])
 
 
 # ## Creating the markdown files
