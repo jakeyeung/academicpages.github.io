@@ -6,11 +6,11 @@ excerpt: 'My main PhD work studying rhythms in mRNA abundance that oscillated in
 date: 2017-12-12
 venue: 'Genome Research'
 paperurl: 'http://genome.cshlp.org/content/early/2017/12/15/gr.222430.117.abstract'
-citation: 'Yeung and Mermet et al. (2017). &amp;quot;Transcription factor activity rhythms and tissue-specific chromatin interactions explain circadian gene expression across organs.&amp;quot; <i>Genome Research</i>'
+citation: 'Yeung and Mermet et al. (2017). &quot;Transcription factor activity rhythms and tissue-specific chromatin interactions explain circadian gene expression across organs.&quot;; <i>Genome Research</i>'
 ---
 
 <a href='http://genome.cshlp.org/content/early/2017/12/15/gr.222430.117.abstract'>Download paper here</a>
 
 My main PhD work studying rhythms in mRNA abundance that oscillated in a tissue-specific manner.
 
-Recommended citation: Yeung and Mermet et al. (2017). &quot;Transcription factor activity rhythms and tissue-specific chromatin interactions explain circadian gene expression across organs.&quot; <i>Genome Research</i>
+Citation: Yeung and Mermet et al. (2017). "Transcription factor activity rhythms and tissue-specific chromatin interactions explain circadian gene expression across organs."; <i>Genome Research</i>

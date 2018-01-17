@@ -40,7 +40,9 @@ publications
 
 # ## Escape special characters
 #
-# YAML is very picky about how it takes a valid string, so we are replacing single and double quotes (and ampersands) with their HTML encoded equivilents. This makes them look not so readable in raw format, but they are parsed and rendered nicely.
+# YAML is very picky about how it takes a valid string, so we are replacing single
+# and double quotes (and ampersands) with their HTML encoded equivilents.
+# This makes them look not so readable in raw format, but they are parsed and rendered nicely.
 
 # In[4]:
 
@@ -56,12 +58,17 @@ def html_escape(text):
 
 def make_citation(citation, year, title, journal):
     """Make full citation as 'citation (Year). Title <i>Journal</i>'"""
-    return "".join([citation, " (", year, "). &quot;", title, ".&quot; <i>", journal, "</i>"])
+    return "".join([citation, " (", year, "). \"", title, ".\"; <i>", journal, "</i>"])
 
 
 # ## Creating the markdown files
 #
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page. If you don't want something to appear (like the "Recommended citation")
+# This is where the heavy lifting is done. This loops through all the rows in
+# the TSV dataframe, then starts to concatentate a big string (```md```) that
+# contains the markdown for each type. It does the YAML metadata first, then
+# does the description for the individual page. If you don't want something to
+# appear (like the "Recommended citation")
+
 
 # In[5]:
 
@@ -102,7 +109,7 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
 
-    md += "\nRecommended citation: " + item.citation
+    md += "\nCitation: " + item.citation
 
     md_filename = os.path.basename(md_filename)
 
