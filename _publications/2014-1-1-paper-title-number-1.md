@@ -12,5 +12,3 @@ citation: 'Wyatt et al. (2014). &quot;Heterogeneity in the inter-tumor transcrip
 <a href='https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0426-y#Sec16'>Download paper here</a>
 
 Small contribution to a project on transcriptome analysis in prostate cancer during Masters
-
-Citation: Wyatt et al. (2014). "Heterogeneity in the inter-tumor transcriptome of high risk prostate cancer."; <i>Genome Biology</i>

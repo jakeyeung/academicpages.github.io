@@ -12,5 +12,3 @@ citation: 'Lanen et al. (2015). &quot;Economic and environmental analysis of a g
 <a href='https://www.inderscienceonline.com/doi/abs/10.1504/IJPSE.2015.071434'>Download paper here</a>
 
 Work based on our (Arthur Yip, Alan Thai) bachelor thesis project.
-
-Citation: Lanen et al. (2015). "Economic and environmental analysis of a green energy hub with energy storage under fixed and variable pricing structures."; <i>International Journal of Process Systems Engineering</i>

@@ -12,5 +12,3 @@ citation: 'Mermet and Yeung et al. (2017). &quot;Systems chronobiology: global a
 <a href='http://cshperspectives.cshlp.org/content/9/3/a028720.short'>Download paper here</a>
 
 Review paper expounding the ideas of chronobiology and why it is a particularly attractive model for studying gene regulation.
-
-Citation: Mermet and Yeung et al. (2017). "Systems chronobiology: global analysis of gene regulation in a 24-hour periodic world."; <i>Cold Spring Harbor perspectives in biology</i>

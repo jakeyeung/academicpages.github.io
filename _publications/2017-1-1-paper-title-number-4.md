@@ -12,5 +12,3 @@ citation: 'Shrestha et al. (2017). &quot;HIT&apos;nDRIVE: patient-specific multi
 <a href='http://genome.cshlp.org/content/27/9/1573.short'>Download paper here</a>
 
 RECOMB paper I contributed during my masters that was published in Genome Research.
-
-Citation: Shrestha et al. (2017). "HIT'nDRIVE: patient-specific multidriver gene prioritization for precision oncology."; <i>Genome Research</i>
