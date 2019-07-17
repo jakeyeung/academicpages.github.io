@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a bioengineering PhD candidate at the EPFL. I use the mouse circadian system as a model to study functional genomics.
+I am an HFSP fellow working at the Hubrecht Institute. I use single-cell genomics to study how genes are regulated in time and space.
+
+[Link to my CV](/keybase/public/jakeyeung/jakeyeung_CV_2019-07-17.pdf)
