@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Professional Preparation
 ======
-* Ph.D Bioengineering, Ecole Polytechnique Federale de Lausanne, 2018 (expected)
+* Postdoc, Hubrecht Institute for Developmental Biology and Stem Cell Research (current)
+	* Research: single-cell genomics.
+* Ph.D Bioengineering, Ecole Polytechnique Federale de Lausanne, 2019
 	* Thesis: Tissue-specific ciradian transcriptional regulation.
 * M.Sc Genome Science and Technology, University of British Columbia, 2014
 	* Thesis: Identification of RNA binding proteins associated with differential splicing in neuroendocrine prostate cancer.
@@ -32,19 +34,11 @@ In my PhD, I have focused on the mammalian circadian system as a model to study 
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Please see my [google scholar page](https://scholar.google.nl/citations?user=uLHVW9sAAAAJ&hl=en&oi=ao)
+
 Conferences (talks)
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Conferences (posters)
-========
-  <ul>{% for post in site.posters reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
@@ -53,8 +47,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
-References
+
+PDF of CV 
 =======
-Available upon request.
+
+PDF version of my CV [here](https://jakeyeung.keybase.pub/jakeyeung_CV_2019-07-17.pdf?dl=1)
  
