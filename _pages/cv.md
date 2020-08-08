@@ -51,5 +51,5 @@ Teaching
 PDF of CV 
 =======
 
-PDF version of my CV [here](https://jakeyeung.keybase.pub/jakeyeung_CV_2019-07-17.pdf?dl=1)
+PDF version of my CV [here](https://keybase.pub/jakeyeung/JakeYeung_2020-08-08.pdf)
  
